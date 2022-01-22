@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shankarbhola
-- 🌱 I’m currently learning B-tech in COmputer Science
+- 🌱 I’m currently learning B-tech in Computer Science
 - 📫 Reach me https://www.shankarbhola.cf/
 
 <!---
