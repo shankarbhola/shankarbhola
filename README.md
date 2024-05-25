@@ -4,6 +4,7 @@
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=shankarbhola&label=Profile%20views&color=0e75b6&style=flat"
     alt="shankarbhola" /> </p>
+    ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C762%20hrs%2014%20mins-blue)
 
 - 🌱 I’m currently learning **Full-stack in JAVA**
 
