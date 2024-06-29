@@ -5,7 +5,7 @@
     src="https://komarev.com/ghpvc/?username=shankarbhola&label=Profile%20views&color=0e75b6&style=flat"
     alt="shankarbhola" /> </p>
 
-- 🌱 I’m currently learning **Full-stack in JAVA**
+- 🌱 I’m a **JAVA Developer**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/shankarbhola?tab=repositories)
 
